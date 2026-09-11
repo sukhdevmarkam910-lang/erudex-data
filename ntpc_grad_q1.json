@@ -1,2 +1,21 @@
-Question,A,B,C,D,CorrectIndex,Note,A_Img,B_Img,C_Img,D_Img
-Bharat ke mukhya chunav ayukt kaun hain?,Rajiv Kumar,Sushil Chandra,Sunil Arora,Om Prakash,0,Rajiv Kumar vartaman chunav ayukt hain,,,,
+question,optionA,optionB,optionC,optionD,correctAnswer,explanation
+"Who was the first Governor-General of independent India?","Lord Mountbatten","C. Rajagopalachari","Dr. Rajendra Prasad","Lord Canning",A,"Lord Mountbatten was the first Governor-General, while C. Rajagopalachari was the first and last Indian Governor-General."
+"Which planet is known as the 'Red Planet'?","Venus","Mars","Jupiter","Saturn",B,"Mars is known as the Red Planet due to the presence of iron oxide (rust) on its surface."
+"The 'Battle of Plassey' was fought in which year?","1757","1764","1857","1782",A,"The Battle of Plassey took place on 23 June 1757 between the British East India Company and the Nawab of Bengal."
+"Which article of the Indian Constitution deals with the 'Right to Equality'?","Article 12","Article 14","Article 17","Article 21",B,"Article 14 provides for equality before the law or equal protection of the laws within the territory of India."
+"If 20% of a number is 120, then 120% of that number will be:","480","720","360","600",B,"Number = (120/20)*100 = 600. 120% of 600 = 720."
+"A train 150m long is running at 54 km/hr. How much time will it take to cross a pole?","8 sec","10 sec","12 sec","15 sec",B,"Speed = 54 * (5/18) = 15 m/s. Time = Distance/Speed = 150/15 = 10 seconds."
+"Find the HCF of 24, 36 and 40.","4","6","8","12",A,"Factors of 24(2*2*2*3), 36(2*2*3*3), 40(2*2*2*5). Common factor is 2*2=4."
+"The unit of power is:","Joule","Newton","Watt","Pascal",C,"Watt is the SI unit of power, equivalent to one joule per second."
+"Who wrote the book 'Indica'?","Kautilya","Megasthenes","Fa-Hien","Hiuen Tsang",B,"Megasthenes was a Greek ambassador in the court of Chandragupta Maurya who wrote Indica."
+"Which state in India has the longest coastline?","Maharashtra","Tamil Nadu","Gujarat","Andhra Pradesh",C,"Gujarat has the longest coastline in India, stretching about 1600 km."
+"If '+' means '÷', '÷' means '-', '-' means '×', '×' means '+', then 12 + 6 ÷ 3 - 2 × 8 = ?","2","4","6","8",B,"(12/6) - 3 * 2 + 8 = 2 - 6 + 8 = 4."
+"Complete the series: 3, 7, 15, 31, 63, ?","96","115","127","131",C,"Pattern: (x2 + 1). 63*2 + 1 = 127."
+"Punched card is also called:","Hollerith card","Video card","Sound card","Accelerator card",A,"Punched cards were first used by Herman Hollerith for the 1890 US Census."
+"The headquarters of UNESCO is located at:","New York","Geneva","Paris","Rome",C,"UNESCO (United Nations Educational, Scientific and Cultural Organization) is headquartered in Paris, France."
+"Who is known as the 'Father of Indian Constitution'?","Mahatma Gandhi","Jawaharlal Nehru","B.R. Ambedkar","Sardar Patel",C,"Dr. Bhimrao Ramji Ambedkar was the chairman of the drafting committee."
+"The value of sin 30° + cos 60° is:","1/2","1","√3/2","2",B,"sin 30° = 1/2, cos 60° = 1/2. 1/2 + 1/2 = 1."
+"Which gland is known as the 'Master Gland'?","Thyroid","Adrenal","Pancreas","Pituitary",D,"The Pituitary gland controls the functions of many other endocrine glands."
+"Light year is a unit of:","Time","Speed","Distance","Intensity",C,"A light-year is the distance that light travels in a vacuum in one Julian year."
+"In a certain code 'TEACHER' is written as 'VGCEJGT', how is 'CHILDREN' written?","EJKNFTGP","EJKNFHTP","EJKNHHTP","EJLNFTGP",A,"Pattern: Each letter +2. C+2=E, H+2=J, I+2=K, L+2=N, D+2=F, R+2=T, E+2=G, N+2=P."
+"Where is the 'Silicon Valley of India' located?","Hyderabad","Chennai","Mumbai","Bengaluru",D,"Bengaluru is known as the Silicon Valley of India because of its role as the nation's leading information technology (IT) exporter."
