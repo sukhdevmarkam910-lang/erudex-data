@@ -1,0 +1,12 @@
+[
+  {
+    "title": "NTPC Undergraduate Mock - 1",
+    "subtitle": "Full Pattern Practice Set",
+    "questions_file": "ntpc_ug_q1.json"
+  },
+  {
+    "title": "Reasoning Special Mock",
+    "subtitle": "25 Important Questions",
+    "questions_file": "ntpc_reasoning_q1.json"
+  }
+]
