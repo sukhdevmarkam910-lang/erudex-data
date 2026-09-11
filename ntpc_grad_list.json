@@ -1,8 +1,22 @@
 [
   {
+    "title": "Reasoning Special Mock",
+    "subtitle": "Graduate Level Mock",
+    "live_at": "2026-09-12 03:00:00",
+    "total_questions": "25",
+    "total_marks": "25",
+    "duration": "30",
+    "negative_marking": "0.25",
+    "questions_file": "ntpc_grad_special_mock.json"
+  },
+  {
     "title": "NTPC Graduate Level Mock - 1",
     "subtitle": "Tier 1 Preparation",
+    "live_at": "2024-05-20 10:00:00",
+    "total_questions": "100",
+    "total_marks": "100",
+    "duration": "90",
+    "negative_marking": "0.33",
     "questions_file": "ntpc_grad_q1.json"
-    
   }
 ]
