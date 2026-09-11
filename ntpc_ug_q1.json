@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Indian Railways ka rashtriyakaran (Nationalization) kab hua tha?",
+    "options": ["1950", "1951", "1952", "1947"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Diesel Locomotive Works kahan sthit hai?",
+    "options": ["Varanasi", "Perambur", "Patiala", "Chittaranjan"],
+    "correctIndex": 0
+  },
+  {
+    "question": "Bharat ki pehli 'Vande Bharat' train kin do shahron ke beech chali?",
+    "options": ["Delhi - Varanasi", "Delhi - Mumbai", "Mumbai - Ahmedabad", "Delhi - Katra"],
+    "correctIndex": 0
+  }
+]
