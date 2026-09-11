@@ -1,0 +1,15 @@
+[
+  {
+    "name": "RPF SI",
+    "desc": "Sub-Inspector Recruitment Tests",
+    "tabs": [
+      { "label": "Mock Tests", "file": "rpf_si_mocks.json" },
+      { "label": "Previous Year", "file": "rpf_si_pyq.json" }
+    ]
+  },
+  {
+    "name": "RPF Constable",
+    "desc": "Constable Recruitment Tests",
+    "file": "rpf_constable_tests.json"
+  }
+]
