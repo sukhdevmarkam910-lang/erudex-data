@@ -8,6 +8,21 @@
     ]
   },
   {
+    "name": "RRB Group D",
+    "desc": "Level 1 Recruitment",
+    "file": "rrb_group_d_list.json"
+  },
+  {
+    "name": "RRB ALP",
+    "desc": "Assistant Loco Pilot",
+    "file": "rrb_alp_list.json"
+  },
+  {
+    "name": "RRB JE",
+    "desc": "Junior Engineer",
+    "file": "rrb_je_list.json"
+  },
+  {
     "name": "RPF SI & Constable",
     "desc": "Railway Protection Force",
     "tabs": [
