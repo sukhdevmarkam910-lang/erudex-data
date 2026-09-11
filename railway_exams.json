@@ -1,0 +1,18 @@
+[
+  {
+    "name": "RRB NTPC",
+    "desc": "Undergraduate & Graduate Posts",
+    "tabs": [
+      { "label": "Undergraduate", "file": "ntpc_ug_list.json" },
+      { "label": "Graduate", "file": "ntpc_grad_list.json" }
+    ]
+  },
+  {
+    "name": "RPF SI & Constable",
+    "desc": "Railway Protection Force",
+    "tabs": [
+      { "label": "SI", "file": "rpf_si_list.json" },
+      { "label": "Constable", "file": "rpf_constable_list.json" }
+    ]
+  }
+]
