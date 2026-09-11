@@ -1,12 +1,19 @@
 [
   {
-    "title": "NTPC Undergraduate Mock - 1",
-    "subtitle": "Full Pattern Practice Set",
-    "questions_file": "ntpc_ug_q1.json"
+    "title": "NTPC Undergraduate Mock - 1","subtitle": "Full Pattern Practice Set",
+    "questions_file": "ntpc_ug_q1.json",
+    "duration": "45",
+    "negative_marking": "0.33",
+    "total_questions": "100",
+    "total_marks": "100"
   },
   {
     "title": "Reasoning Special Mock",
     "subtitle": "25 Important Questions",
-    "questions_file": "ntpc_reasoning_q1.json"
+    "questions_file": "ntpc_reasoning_q1.json",
+    "duration": "30",
+    "negative_marking": "0.25",
+    "total_questions": "25",
+    "total_marks": "25"
   }
 ]
