@@ -2,7 +2,7 @@
   {
     "title": "NTPC Undergraduate Mock - 1","subtitle": "Full Pattern Practice Set",
     "questions_file": "ntpc_ug_q1.json",
-    "duration": "1",
+    "duration": "0:30",
     "negative_marking": "0.33",
     "total_questions": "100",
     "total_marks": "100"
