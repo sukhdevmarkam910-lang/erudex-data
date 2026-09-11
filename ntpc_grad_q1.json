@@ -1,4 +1,4 @@
-question,optionA,optionB,optionC,optionD,correctAnswer,explanation
+Question,A,B,C,D,CorrectIndex,Note
 "Who was the first Governor-General of independent India?","Lord Mountbatten","C. Rajagopalachari","Dr. Rajendra Prasad","Lord Canning",A,"Lord Mountbatten was the first Governor-General, while C. Rajagopalachari was the first and last Indian Governor-General."
 "Which planet is known as the 'Red Planet'?","Venus","Mars","Jupiter","Saturn",B,"Mars is known as the Red Planet due to the presence of iron oxide (rust) on its surface."
 "The 'Battle of Plassey' was fought in which year?","1757","1764","1857","1782",A,"The Battle of Plassey took place on 23 June 1757 between the British East India Company and the Nawab of Bengal."
