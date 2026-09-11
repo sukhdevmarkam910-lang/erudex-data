@@ -8,17 +8,6 @@
     "negative_marking": "0.33",
     "marks_per_question": "1.0",
     "file": "rpf_constable_test_1.json",
-    
-  },
-  {
-    "title": "RPF Constable Mock Test 2",
-    "subtitle": "Maths & Reasoning Special",
-    "total_questions": 70,
-    "total_marks": 70,
-    "duration": "60",
-    "negative_marking": "0.33",
-    "marks_per_question": "1.0",
-    "file": "rpf_constable_test_2.json",
-    
+    "live_at": "2026-09-12 10:00:00"
   }
 ]
