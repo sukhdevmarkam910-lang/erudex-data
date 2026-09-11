@@ -6,7 +6,7 @@
     "duration": 90,
     "negative_marking": "1/3",
     "file": "rpf_si_mocks.json",
-    "live_at": "2026-09-12 10:00:00"
+    "live_at": "2026-09-12 04:45:00"
   },
   {
     "title": "RPF SI Mock Test 2",
@@ -16,6 +16,6 @@
     "duration": 90,
     "negative_marking": "1/3",
     "file": "rpf_si_test.json",
-    "live_at": "2026-09-12 09:00:00"
+    "live_at": "2026-09-12 04:45:00"
   }
 ]
