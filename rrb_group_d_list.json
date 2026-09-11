@@ -1,1 +1,10 @@
-Question,A,B,C,D,CorrectIndex,Note,A_Img,B_Img,C_Img,D_Img
+[
+  {
+    "title": "CBT-1 Full Mock 1",
+    "total_questions": 100,
+    "duration": "90",
+    "negative_marking": "1/3",
+    "marks_per_question": "1",
+    "file": "rrb_je_q1.json"
+  }
+]
