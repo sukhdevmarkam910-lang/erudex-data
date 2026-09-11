@@ -1,4 +1,4 @@
-question,optionA,optionB,optionC,optionD,correctAnswer,explanation
+Question,A,B,C,D,CorrectIndex,Note,A_Img,B_Img,C_Img,D_Img
 "If RAIN is coded as 181914, how will SNOW be coded?","19141523","19151423","18151423","19141522",A,"Alphabet positions: R=18, A=1, I=9, N=14. Similarly S=19, N=14, O=15, W=23."
 "Find the missing number: 2, 6, 12, 20, 30, ?","40","42","44","46",B,"Pattern: +4, +6, +8, +10, +12. So 30 + 12 = 42."
 "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the man?","Sister","Grandmother","Mother","Aunt",C,"The only daughter of the woman's mother is the woman herself. So, she is the man's mother."
