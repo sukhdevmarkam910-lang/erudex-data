@@ -1,19 +1,19 @@
 [
 {
-    "title": " Maths Prectice mock test 1",
+    "title": " GK gs Prectice mock test 1",
     "subtitle": "Full Pattern Practice Set",
-    "questions_file": "ntpc_ug_q1.json",
-    "duration": "90",
+    "questions_file": "ntpc_gk_gs.json",
+    "duration": "0:30",
     "negative_marking": "0.25",
     "marks_per_question": "1.0",
-    "total_questions": "100",
-    "total_marks": "100"
+    "total_questions": "5",
+    "total_marks": "10"
     
   },
   {
     "title": "Reasoning Special Mock",
     "subtitle": "121 Important Questions",
-    "questions_file": "ntpc_gk_gs.json",
+    "questions_file": ""ntpc_reasoning_q1.json",
     "duration": "90",
     "negative_marking": "0.25",
     "marks_per_question": "1.0",
