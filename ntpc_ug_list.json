@@ -11,13 +11,13 @@
   },
   {
     "title": "Reasoning Special Mock",
-    "subtitle": "25 Important Questions",
+    "subtitle": "121 Important Questions",
     "questions_file": "ntpc_reasoning_q1.json",
-    "duration": "30",
+    "duration": "90",
     "negative_marking": "0.25",
     "marks_per_question": "1.0",
-    "total_questions": "25",
-    "total_marks": "25",
-    "live_at": "2026-09-12T03:00:00"
+    "total_questions": "121",
+    "total_marks": "121",
+    "live_at": "2026-09-12T18:00:00"
   }
 ]
