@@ -5,7 +5,7 @@
     "questions_file": "ntpc_gk_gs.json",
     "duration": "0:30",
     "negative_marking": "0.25",
-    "marks_per_question": "1.0",
+    "marks_per_question": "2.0",
     "total_questions": "5",
     "total_marks": "10"
     
