@@ -1,0 +1,16 @@
+{
+  "title": "SSC CGL LIVE MEGA MOCK 01",
+  "start_time": "2026-09-13 21:40:00",
+  "duration": 2,
+  "total_questions": 10,
+  "total_marks": 20,
+  "negative_marking": "0.5",
+  "marks_per_question": "2.0",
+  "questions_file": "govt_live_mock_q.json",
+  "general_instructions": [
+    "Yeh ek LIVE Mock Test hai, isse pause nahi kiya ja sakta.",
+    "Exam automatically Landscape mode me chalega (CBT Experience).",
+    "Timer khatam hone par test apne aap submit ho jayega.",
+    "Internet connection stable rakhein."
+  ]
+}
