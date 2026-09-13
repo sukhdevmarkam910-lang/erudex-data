@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Admin",
+    "email": "admin@erudex.com",
+    "password": "123",
+    "points": 500,
+    "testsDone": 5
+  }
+]
