@@ -1,0 +1,10 @@
+[
+  {
+    "title": "CBT-1 Full Mock 1",
+    "total_questions": 100,
+    "duration": "90",
+    "negative_marking": "1/3",
+    "marks_per_question": "1",
+    "file": "ssc_maths.json"
+  }
+]
