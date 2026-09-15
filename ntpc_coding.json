@@ -1,0 +1,11 @@
+Question,A,B,C,D,CorrectIndex,Note,A_Img,B_Img,C_Img,D_Img
+यदि MANGO को NBOHP लिखा जाता है, तो APPLE को किस प्रकार लिखा जाएगा?,BQQMF,BPPMF,CQQMF,BQQME,0,हर अक्षर में 1 जोड़ने का नियम है।,,,,
+यदि CAT को DBU लिखा जाता है, तो DOG को किस प्रकार लिखा जाएगा?,EPH,FOH,DPH,EOG,0,हर अक्षर के अगले अक्षर को लिया गया है।,,,,
+यदि PEN को QFO लिखा जाता है, तो BOOK को किस प्रकार लिखा जाएगा?,CPPL,CQPL,CPPK,DPPM,0,हर अक्षर में 1 जोड़ने का नियम है।,,,,
+यदि TRAIN को USBJO लिखा जाता है, तो PLANE को किस प्रकार लिखा जाएगा?,QMBOF,QMBNF,PMBOF,QLBOF,0,हर अक्षर में 1 जोड़ने का नियम है।,,,,
+यदि DELHI को EFMIJ लिखा जाता है, तो INDIA को किस प्रकार लिखा जाएगा?,JOEJB,JNEJB,JOEIA,INEJB,0,हर अक्षर में 1 जोड़ने का नियम है।,,,,
+यदि ROAD को SPBE लिखा जाता है, तो GAME को किस प्रकार लिखा जाएगा?,HBNF,HBMF,GBOF,HAME,0,हर अक्षर में 1 जोड़ने का नियम है।,,,,
+यदि BOOK को CPPL लिखा जाता है, तो FISH को किस प्रकार लिखा जाएगा?,GJTI,GISH,FJTI,HJTI,0,हर अक्षर में 1 जोड़ने का नियम है।,,,,
+यदि COLD को DPME लिखा जाता है, तो WARM को किस प्रकार लिखा जाएगा?,XBSN,XBRN,WBSN,YBSN,0,हर अक्षर में 1 जोड़ने का नियम है।,,,,
+यदि KING को LJOH लिखा जाता है, तो QUEEN को किस प्रकार लिखा जाएगा?,RVFFO,RVFFN,QVFFO,RUFOO,0,हर अक्षर में 1 जोड़ने का नियम है।,,,,
+यदि EARTH को FBSUI लिखा जाता है, तो WORLD को किस प्रकार लिखा जाएगा?,XPSME,XPSLD,WPQME,XORNF,0,हर अक्षर में 1 जोड़ने का नियम है।,,,,
