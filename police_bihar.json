@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Bihar Police Constable","desc": "CSBC Bihar Police Sipahi Bharti Exam Mocks",
+    "tabs": [
+      {
+        "label": "Full Length Mock",
+        "file": "bihar_police_constable_full.csv"
+      },
+      {
+        "label": "Previous Year Papers",
+        "file": "bihar_police_constable_pyq.csv"
+      }
+    ]
+  },
+  {
+    "name": "Bihar Police SI",
+    "desc": "BPSSC Sub Inspector Prelims & Mains Test Series",
+    "tabs": [
+      {
+        "label": "SI Prelims Mock",
+        "file": "bihar_police_si_pre.csv"
+      },
+      {
+        "label": "SI Mains Mock",
+        "file": "bihar_police_si_mains.csv"
+      }
+    ]
+  }
+]
