@@ -1,0 +1,39 @@
+[
+  {
+    "name": "UP Police Constable",
+    "desc": "Uttar Pradesh Police Constable Mega Mock Test Series",
+    "tabs": [
+      {
+        "label": "Full Mock Test",
+        "file": "up_police_constable_full.csv"
+      },
+      {
+        "label": "Hindi Special",
+        "file": "up_police_constable_hindi.csv"
+      },
+      {
+        "label": "GK & GS",
+        "file": "up_police_constable_gk.csv"
+      }
+    ]
+  },
+  {
+    "name": "UP Police SI",
+    "desc": "Sub Inspector (Daroga) Prelims & Mains Mocks",
+    "tabs": [
+      {
+        "label": "Paper 1 (GS/Hindi)",
+        "file": "up_police_si_p1.csv"
+      },
+      {
+        "label": "Paper 2 (Maths/Reasoning)",
+        "file": "up_police_si_p2.csv"
+      }
+    ]
+  },
+  {
+    "name": "UP Police Radio Operator",
+    "desc": "Head Radio Operator & Assistant Operator Exam",
+    "file": "up_police_radio_operator.csv"
+  }
+]
