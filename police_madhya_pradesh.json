@@ -1,0 +1,30 @@
+[
+  {
+    "name": "MP Police Constable",
+    "desc": "MPPEB (Vyapam) Constable General Duty Test Series",
+    "tabs": [
+      {
+        "label": "Full Mock 2024",
+        "file": "mp_police_constable_full.csv"
+      },
+      {
+        "label": "Maths & Science",
+        "file": "mp_police_constable_sec.csv"
+      }
+    ]
+  },
+  {
+    "name": "MP Police SI",
+    "desc": "Madhya Pradesh Sub Inspector Technical & Non-Technical",
+    "tabs": [
+      {
+        "label": "Paper 1 (Language)",
+        "file": "mp_police_si_lang.csv"
+      },
+      {
+        "label": "Paper 2 (General Knowledge)",
+        "file": "mp_police_si_gk.csv"
+      }
+    ]
+  }
+]
