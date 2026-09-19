@@ -1,10 +1,44 @@
 [
   {
-    "title": "CBT-1 Full Mock 1",
-    "total_questions": 10,
-    "duration": "0:30",
-    "negative_marking": "1/3",
-    "marks_per_question": "1",
-    "file": "ssc_maths.json"
+    "name": "SSC CGL",
+    "desc": "Combined Graduate Level",
+    "tabs": [
+      { "label": "Tier 1 (Prelims)", "file": "ssc_cgl_tier1.json" },
+      { "label": "Tier 2 (Mains)", "file": "ssc_cgl_tier2.json" }
+    ]
+  },
+  {
+    "name": "SSC CHSL",
+    "desc": "Combined Higher Secondary Level (12th Pass)",
+    "tabs": [
+      { "label": "Tier 1", "file": "ssc_chsl_tier1.json" },
+      { "label": "Tier 2", "file": "ssc_chsl_tier2.json" }
+    ]
+  },
+  {
+    "name": "SSC MTS & Havildar",
+    "desc": "Multi-Tasking Staff (Single Exam)",
+    "file": "ssc_mts_list.json"
+  },
+  {
+    "name": "SSC CPO",
+    "desc": "Central Police Organisation (SI)",
+    "tabs": [
+      { "label": "Paper 1", "file": "ssc_cpo_paper1.json" },
+      { "label": "Paper 2", "file": "ssc_cpo_paper2.json" }
+    ]
+  },
+  {
+    "name": "SSC JE",
+    "desc": "Junior Engineer",
+    "tabs": [
+      { "label": "Paper 1", "file": "ssc_je_paper1.json" },
+      { "label": "Paper 2", "file": "ssc_je_paper2.json" }
+    ]
+  },
+  {
+    "name": "SSC GD Constable",
+    "desc": "General Duty Constable",
+    "file": "ssc_gd_list.json"
   }
 ]
