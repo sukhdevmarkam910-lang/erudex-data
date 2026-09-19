@@ -1,0 +1,29 @@
+[{
+    "name": "Rajasthan Police Constable",
+    "desc": "Rajasthan Police Sipahi and Driver Exam Mocks",
+    "tabs": [
+      {
+        "label": "Full Length Test",
+        "file": "rajasthan_constable_full.csv"
+      },
+      {
+        "label": "Computer & Reasoning",
+        "file": "rajasthan_constable_comp.csv"
+      }
+    ]
+  },
+  {
+    "name": "Rajasthan Police SI",
+    "desc": "RPSC Sub Inspector and Platoon Commander Mocks",
+    "tabs": [
+      {
+        "label": "Paper 1 (Hindi)",
+        "file": "rajasthan_si_hindi.csv"
+      },
+      {
+        "label": "Paper 2 (GK & GS)",
+        "file": "rajasthan_si_gk.csv"
+      }
+    ]
+  }
+]
