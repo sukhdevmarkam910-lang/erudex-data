@@ -1,0 +1,44 @@
+[
+  {
+    "name": "UPSC Civil Services (IAS/IPS)",
+    "desc": "Civil Services Examination (CSE)",
+    "tabs": [
+      { "label": "Prelims", "file": "upsc_cse_prelims.json" },
+      { "label": "Mains", "file": "upsc_cse_mains.json" }
+    ]
+  },
+  {
+    "name": "UPSC NDA & NA",
+    "desc": "National Defence Academy & Naval Academy",
+    "tabs": [
+      { "label": "Written Exam", "file": "upsc_nda_written.json" },
+      { "label": "SSB Interview", "file": "upsc_nda_ssb.json" }
+    ]
+  },
+  {
+    "name": "UPSC CDS",
+    "desc": "Combined Defence Services Examination",
+    "file": "upsc_cds_list.json"
+  },
+  {
+    "name": "UPSC EPFO",
+    "desc": "Enforcement Officer / Accounts Officer",
+    "file": "upsc_epfo_list.json"
+  },
+  {
+    "name": "UPSC CAPF AC",
+    "desc": "Central Armed Police Forces (Assistant Commandant)",
+    "tabs": [
+      { "label": "Paper 1 & 2", "file": "upsc_capf_written.json" },
+      { "label": "Physical Test", "file": "upsc_capf_physical.json" }
+    ]
+  },
+  {
+    "name": "UPSC ESE",
+    "desc": "Engineering Services Examination",
+    "tabs": [
+      { "label": "Prelims", "file": "upsc_ese_prelims.json" },
+      { "label": "Mains", "file": "upsc_ese_mains.json" }
+    ]
+  }
+]
