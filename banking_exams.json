@@ -1,0 +1,58 @@
+[
+  {
+    "name": "IBPS PO",
+    "desc": "Probationary Officer",
+    "tabs": [
+      { "label": "Prelims", "file": "ibps_po_prelims.json" },
+      { "label": "Mains", "file": "ibps_po_mains.json" }
+    ]
+  },
+  {
+    "name": "IBPS Clerk",
+    "desc": "Clerical Cadre",
+    "tabs": [
+      { "label": "Prelims", "file": "ibps_clerk_prelims.json" },
+      { "label": "Mains", "file": "ibps_clerk_mains.json" }
+    ]
+  },
+  {
+    "name": "SBI PO",
+    "desc": "State Bank of India Probationary Officer",
+    "tabs": [
+      { "label": "Prelims", "file": "sbi_po_prelims.json" },
+      { "label": "Mains", "file": "sbi_po_mains.json" }
+    ]
+  },
+  {
+    "name": "SBI Clerk",
+    "desc": "Junior Associate (Customer Support & Sales)",
+    "tabs": [
+      { "label": "Prelims", "file": "sbi_clerk_prelims.json" },
+      { "label": "Mains", "file": "sbi_clerk_mains.json" }
+    ]
+  },
+  {
+    "name": "IBPS RRB Officer Scale-I",
+    "desc": "Regional Rural Bank PO (Assistant Manager)",
+    "tabs": [
+      { "label": "Prelims", "file": "rrb_po_prelims.json" },
+      { "label": "Mains", "file": "rrb_po_mains.json" }
+    ]
+  },
+  {
+    "name": "IBPS RRB Office Assistant",
+    "desc": "Regional Rural Bank Clerk (Multipurpose)",
+    "tabs": [
+      { "label": "Prelims", "file": "rrb_clerk_prelims.json" },
+      { "label": "Mains", "file": "rrb_clerk_mains.json" }
+    ]
+  },
+  {
+    "name": "RBI Assistant",
+    "desc": "Reserve Bank of India Assistant",
+    "tabs": [
+      { "label": "Prelims", "file": "rbi_assistant_prelims.json" },
+      { "label": "Mains", "file": "rbi_assistant_mains.json" }
+    ]
+  }
+]
