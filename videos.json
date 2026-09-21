@@ -1,7 +1,13 @@
-   {
-     "videos": [
-       "https://www.youtube.com/live/rPf1bxhrqg8?si=PNc__mqVo4nmviOJ",
-       "https://youtu.be/yaG326rSZ4M?si=yX0cAHkvNJgDyRqn"
-     ]
-   }
-   
+ {
+  "videos": [
+    {
+      "url": "https://www.youtube.com/live/rPf1bxhrqg8?si=PNc__mqVo4nmviOJ",
+      "mock_title": "RRB NTPC Live Questions Mock Test",
+      "mock_file": "questions.json",
+      "mock_duration": "2:00"
+    },
+    {
+      "url": "https://youtu.be/yaG326rSZ4M?si=yX0cAHkvNJgDyRqn"
+    }
+  ]
+}
