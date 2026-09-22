@@ -26,10 +26,21 @@
     "email": "jaysewamandla@gmail.com",
     "password": "Sukhdev@0987",
     "created_at": "2026-09-22T23:50:16.181859",
-    "points": 18.25,
-    "tests_count": 2,
-    "accuracy_rate": "50",
-    "avg_speed": 9,
-    "rank": 99
+    "points": 20.0,
+    "tests_count": 1,
+    "accuracy_rate": "100.0",
+    "avg_speed": 15,
+    "rank": 99,
+    "test_history": [
+      {
+        "testTitle": " GK gs Prectice mock test 1",
+        "score": 20.0,
+        "correct": 10,
+        "wrong": 0,
+        "total": 10,
+        "date": "2026-09-23T02:02:37.808007",
+        "avg_speed": 15
+      }
+    ]
   }
 ]
