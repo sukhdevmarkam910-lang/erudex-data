@@ -26,12 +26,21 @@
     "email": "jaysewamandla@gmail.com",
     "password": "Sukhdev@0987",
     "created_at": "2026-09-22T23:50:16.181859",
-    "points": 20.0,
-    "tests_count": 2,
-    "accuracy_rate": "60.0",
+    "points": 36.0,
+    "tests_count": 3,
+    "accuracy_rate": "71.4",
     "avg_speed": 14,
     "rank": 99,
     "test_history": [
+      {
+        "testTitle": " GK gs Prectice mock test 1",
+        "score": 16.0,
+        "correct": 8,
+        "wrong": 0,
+        "total": 10,
+        "date": "2026-09-23T02:05:20.640975",
+        "avg_speed": 15
+      },
       {
         "testTitle": "Coding Decoding Special Mock Test",
         "score": 0.0,
