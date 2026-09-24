@@ -3,11 +3,12 @@
     "title": "Reasoning Special Mock",
     "subtitle": "Graduate Level Mock",
     "live_at": "2026-09-25 01:45:00",
-    "total_questions": "25",
-    "total_marks": "25",
-    "duration": "30",
+    "total_questions": "10",
+    "marks_per_question": "2.0",
+    "total_marks": "20",
+    "duration": "0:45",
     "negative_marking": "0.25",
-    "questions_file": "ntpc_grad_special_mock.json"
+    "questions_file": "quiztab_ntpc_reasoning_mock01.json"
   },
   {
     "title": "Reasoning Live Test 02",
