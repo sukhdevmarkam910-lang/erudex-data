@@ -27,11 +27,20 @@
     "password": "Sukhdev@0987",
     "created_at": "2026-09-22T23:50:16.181859",
     "points": 61.0,
-    "tests_count": 10,
+    "tests_count": 11,
     "accuracy_rate": "81.4",
     "avg_speed": 8,
     "rank": 99,
     "test_history": [
+      {
+        "testTitle": "Reasoning Special Mock",
+        "score": 0.0,
+        "correct": 0,
+        "wrong": 0,
+        "total": 10,
+        "date": "2026-09-25T01:50:17.114655",
+        "avg_speed": 10
+      },
       {
         "testTitle": "RRB NTPC Live Questions Mock Test",
         "score": 1.0,
