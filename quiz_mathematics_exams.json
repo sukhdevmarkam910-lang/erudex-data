@@ -1,20 +1,22 @@
 [
   {
-    "title": "Profit and Loss - Practice Set 1",
-    "questionsFile": "quiz_maths_pl_01.json",
-    "duration": "20",
-    "totalQuestions": "20",
-    "totalMarks": "40",
-    "marksPerQuestion": 2.0,
-    "negativeMarking": 0.5
+    "title": "Reasoning Special Mock",
+    "subtitle": "Graduate Level Mock",
+    "live_at": "2026-09-25 01:50:00",
+    "total_questions": "25",
+    "total_marks": "25",
+    "duration": "0:30",
+    "negative_marking": "0.25",
+    "questions_file": "quiz_maths_pl_01.json"
   },
   {
-    "title": "Number System - Advanced",
-    "questionsFile": "quiz_maths_ns_02.json",
-    "duration": "30",
-    "totalQuestions": "25",
-    "totalMarks": "50",
-    "marksPerQuestion": 2.0,
-    "negativeMarking": 0.5
+    "title": "Reasoning Live Test 02",
+    "subtitle": "CHSL Based Mock",
+    "live_at": "2024-03-20 10:00:00",
+    "total_questions": "50",
+    "total_marks": "100",
+    "duration": "60",
+    "negative_marking": "0.50",
+    "questions_file": "chsl_reasoning_mock_02.json"
   }
 ]
