@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Profit and Loss - Practice Set 1",
+    "questionsFile": "quiz_maths_pl_01.json",
+    "duration": "20",
+    "totalQuestions": "20",
+    "totalMarks": "40",
+    "marksPerQuestion": 2.0,
+    "negativeMarking": 0.5
+  },
+  {
+    "title": "Number System - Advanced",
+    "questionsFile": "quiz_maths_ns_02.json",
+    "duration": "30",
+    "totalQuestions": "25",
+    "totalMarks": "50",
+    "marksPerQuestion": 2.0,
+    "negativeMarking": 0.5
+  }
+]
