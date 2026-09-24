@@ -1,1 +1,22 @@
-
+[
+  {
+    "title": "Reasoning Special Mock",
+    "subtitle": "Graduate Level Mock",
+    "live_at": "2026-09-25 01:45:00",
+    "total_questions": "25",
+    "total_marks": "25",
+    "duration": "30",
+    "negative_marking": "0.25",
+    "questions_file": "ntpc_grad_special_mock.json"
+  },
+  {
+    "title": "Reasoning Live Test 02",
+    "subtitle": "CHSL Based Mock",
+    "live_at": "2024-03-20 10:00:00",
+    "total_questions": "50",
+    "total_marks": "100",
+    "duration": "60",
+    "negative_marking": "0.50",
+    "questions_file": "chsl_reasoning_mock_02.json"
+  }
+]
