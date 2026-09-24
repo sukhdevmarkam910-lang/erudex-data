@@ -4,6 +4,7 @@
     "subtitle": "Graduate Level Mock",
     "live_at": "2026-09-25 01:50:00",
     "total_questions": "10",
+    "marks_per_question": "2.0",
     "total_marks": "20",
     "duration": "0:30",
     "negative_marking": "0.25",
