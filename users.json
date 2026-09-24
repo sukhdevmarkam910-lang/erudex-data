@@ -26,12 +26,21 @@
     "email": "jaysewamandla@gmail.com",
     "password": "Sukhdev@0987",
     "created_at": "2026-09-22T23:50:16.181859",
-    "points": 58.0,
-    "tests_count": 7,
-    "accuracy_rate": "80.0",
-    "avg_speed": 10,
+    "points": 59.0,
+    "tests_count": 8,
+    "accuracy_rate": "80.5",
+    "avg_speed": 9,
     "rank": 99,
     "test_history": [
+      {
+        "testTitle": "CBT-1 Full Mock 1",
+        "score": 1.0,
+        "correct": 1,
+        "wrong": 0,
+        "total": 5,
+        "date": "2026-09-24T15:13:52.778314",
+        "avg_speed": 3
+      },
       {
         "testTitle": "CBT-1 Full Mock 1",
         "score": 1.0,
