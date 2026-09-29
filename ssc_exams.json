@@ -3,7 +3,7 @@
     "name": "SSC CGL",
     "desc": "Combined Graduate Level",
     "tabs": [
-      { "label": "Tier 1 (Prelims)", "file": "SSC_MTS_GD_Maths_100_Questions.json" },
+      { "label": "Tier 1 (Prelims)", "file": "ssc_cgl_tier1.json" },
       { "label": "Tier 2 (Mains)", "file": "ssc_cgl_tier2.json" }
     ]
   },
