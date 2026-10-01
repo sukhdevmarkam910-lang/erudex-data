@@ -1,6 +1,6 @@
 [
   {
-    "name": "UPSC Civil Services (IAS/IPS)",
+    "name": "UPSC Civil Services Preliminary Examination - General Studies Practice Test",
     "desc": "Civil Services Examination (CSE)",
     "tabs": [
       { "label": "Prelims", "file": "upsc_cse_prelims.json" },
