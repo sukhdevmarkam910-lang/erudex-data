@@ -4,7 +4,7 @@
     "desc": "Civil Services Examination (CSE)",
     "tabs": [
       { "label": "Prelims", "file": "upsc_cse_prelims.json" },
-      { "label": "Mains", "file": "upsc_cse_mains.json" }
+      { "label": "Mains", "file": "UPSC_CSE_GS_Prelims_100_Questions.json" }
     ]
   },
   {
