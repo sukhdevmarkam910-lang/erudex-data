@@ -1,0 +1,13 @@
+[
+{
+    "title": " IBPS PO Comprehensive Examination Practice Test ",
+    "subtitle": "Practice Set",
+    "questions_file": "IBPS_PO_Prelims_Mains_Questions.json",
+    "duration": "60",
+    "negative_marking": "0.25",
+    "marks_per_question": "2.0",
+    "total_questions": "100",
+    "total_marks": "100"
+    
+  }
+]
