@@ -2,17 +2,17 @@
   {
     "id": "301",
     "title": "Naya Mock Test Live! 📝",
-    "message": "UP Police ka naya model paper aa gaya hai. Abhi test dekar apni taiyari check karein!",
-    "time": "2023-11-21T10:00:00",
+    "message": "IBPS PO Comprehensive Examination Practice Test !",
+    "time": "2026-10-07T00:35:00",
     "target": "all",
     "linked_test": {
-       "title": "UP Police Model Paper 2024",
-       "questions_file": "police_up_model_1.json",
-       "duration": "120",
+       "title": "IBPS PO Comprehensive Examination Practice Test ",
+       "questions_file": "IBPS_PO_Prelims_Mains_Questions.json",
+       "duration": "60",
        "negative_marking": "0.5",
        "marks_per_question": "2.0",
-       "total_questions": "150",
-       "total_marks": "300"
+       "total_questions": "100",
+       "total_marks": "100"
     }
   }
 ]
