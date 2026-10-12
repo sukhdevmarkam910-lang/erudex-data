@@ -210,5 +210,15 @@
     "email": "t50649532@gmail.com",
     "password": "Test@4321",
     "created_at": "2026-09-24T14:41:17.610346"
+  },
+  {
+    "name": "erudex app testing",
+    "email": "markam@gmail.com",
+    "password": "Sukhdev@0987",
+    "created_at": "2026-10-12T15:07:33.531905",
+    "points": 0,
+    "tests_count": 0,
+    "accuracy_rate": "0",
+    "test_history": []
   }
 ]
